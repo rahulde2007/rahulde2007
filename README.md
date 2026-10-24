@@ -52,11 +52,8 @@
 
 </div>
 
-<div align="center">
-  
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+---
+<!-- ABOUT ME: Independent Table -->
 
 <h2>👋 About Me</h2>
 
@@ -80,29 +77,21 @@ public:
 };
 ```
 
-</td>
-<td width="50%" valign="top">
+---
+---
+<!-- FUN FACT: Independent Table -->
 
 <h2>🎈 Fun Fact</h2>
 
 <div align="center">
+<img height="180" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="Octocat" />
 
-<img height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="Octocat" />
 
-<p>
-🔭 Currently working on <b>Agentic Graph RAG</b><br/>
-🌱 Exploring <b>Deep Learning, AI and System Design</b><br/>
-💻 Passionate about <b>DSA & Competitive Programming</b><br/>
-☁️ Interested in <b>Web Development</b><br/>
-🎯 Goal: <b>Army Officer</b>
-</p>
-
-</div>
-
-</td>
-</tr>
-</table>
-
+🔭 Currently working on **Agentic Graph RAG**<br/>
+🌱 Exploring **Deep Learning, AI and System Design**<br/>
+💻 Passionate about **DSA & Competitive Programming**<br/>
+☁️ Interested in **Web Development**<br/>
+🎯 Goal: **Army Officer**
 </div>
 
 ---
