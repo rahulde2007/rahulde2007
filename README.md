@@ -119,10 +119,11 @@ public:
 
 ---
 
-# 📊 GitHub Trophies 
+# 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://hacked-github-stat-trophies.vercel.app/?username=rahulde2007&theme=dracula&column=9&no-frame=true" alt="GitHub Trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahulde2007&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulde2007&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
