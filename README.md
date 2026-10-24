@@ -167,16 +167,14 @@ public:
 
 <p align="center">
 
-<a href="https://leetcode.com/profile/ ">
-<img src="https://img.shields.io/badge/LeetCode-DSA%20Enthusiast-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/rahulde_09/">
+  <img src="./assets/coding/LeetCode.png" height="50" alt="LeetCode" />
 </a>
-
-<a href="https://codeforces.com/profile/ ">
-<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programmer-blue?style=for-the-badge&logo=codeforces"/>
+<a href="https://codeforces.com/profile/rahulde_09">
+  <img src="./assets/coding/Codeforces.png" height="50" alt="Codeforces" />
 </a>
-
-<a href="https://www.codechef.com/users/ ">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-brown?style=for-the-badge&logo=codechef"/>
+<a href="https://www.codechef.com/users/rahulde_09">
+  <img src="./assets/coding/Codechef.png" height="50" alt="CodeChef" />
 </a>
 
 </p>
