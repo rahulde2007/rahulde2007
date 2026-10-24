@@ -45,14 +45,14 @@
 </div>
 
 ---
-<table cellpadding="0" cellspacing="0">
+
+<div align="center">
+  
+<table width="100%">
 <tr>
-<td width="50%" align="center" valign="middle">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Coding" width="100%" />
-</td>
 <td width="50%" valign="top">
 
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
+<h2>👋 About Me</h2>
 
 ```cpp
 class Rahul De {
@@ -75,28 +75,31 @@ public:
 ```
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-
-## 🎈 Fun Fact 
+<h2>🎈 Fun Fact</h2>
 
 <div align="center">
 
-<img height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" />
+<img height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="Octocat" />
 
-<br>
+<p>
+🔭 Currently working on <b>Agentic Graph RAG</b><br/>
+🌱 Exploring <b>Deep Learning, AI and System Design</b><br/>
+💻 Passionate about <b>DSA & Competitive Programming</b><br/>
+☁️ Interested in <b>Web Development</b><br/>
+🎯 Goal: <b>Army Officer</b>
+</p>
 
-🔭 Currently working on **Agentic Graph RAG**<br>
-🌱 Exploring **Deep Learning, AI and System Design**<br>
-💻 Passionate about **DSA & Competitive Programming**<br>
-☁️ Interested in **Web Development**<br>
-🎯 Goal: **Army Officer**
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
-
 
 # 🌐 Connect With Me
 
