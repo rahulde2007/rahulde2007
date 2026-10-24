@@ -140,15 +140,15 @@ public:
 # 🏆 GitHub Achievements
 
 <a href="https://github.com/rahulde2007?tab=achievements">
-  <img src="./assets/achievements/achievement-1.png" width="80" alt="Achievement 1" />
+  <img src="./assets/achievements/Quickdraw.png" width="80" alt="Achievement 1" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/rahulde2007?tab=achievements">
-  <img src="./assets/achievements/achievement-2.png" width="80" alt="Achievement 2" />
+  <img src="./assets/achievements/YOLO.png" width="80" alt="Achievement 2" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/rahulde2007?tab=achievements">
-  <img src="./assets/achievements/achievement-3.png" width="80" alt="Achievement 3" />
+  <img src="./assets/achievements/Pull%20Shark.png" width="80" alt="Achievement 3" />
 </a>
 
 ---
