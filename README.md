@@ -139,6 +139,7 @@ public:
 
 # 🏆 GitHub Achievements
 
+<div align="center">
 <a href="https://github.com/rahulde2007?tab=achievements">
   <img src="./assets/achievements/Quickdraw.png" width="80" alt="Achievement 1" />
 </a>
@@ -152,7 +153,7 @@ public:
 </a>
 
 ---
-
+</div>
 # 🐍 Contribution Graph
 
 <p align="center">
