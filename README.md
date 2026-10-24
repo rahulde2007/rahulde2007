@@ -77,19 +77,23 @@ public:
 </td>
 </tr>
 </table>
-```
-
-## Fun Fact 🎈:
-
-<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
 
-* 🔭 Currently working on **Agentic Graph RAG**
-* 🌱 Exploring **Deep Learning, AI and System Design**
-* 💻 Passionate about **DSA & Competitive Programming**
-* ☁️ Interested in **Web Devlapment**
-* 🎯 Goal: **Army Officer**
+## 🎈 Fun Fact 
+
+<div align="center">
+
+<img height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" />
+
+<br>
+
+🔭 Currently working on **Agentic Graph RAG**<br>
+🌱 Exploring **Deep Learning, AI and System Design**<br>
+💻 Passionate about **DSA & Competitive Programming**<br>
+☁️ Interested in **Web Development**<br>
+🎯 Goal: **Army Officer**
+
+</div>
 
 ---
 
@@ -189,5 +193,5 @@ public:
 </h3>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+  <b> Thanks for visiting my profile! 🚀</b>
+  </p>
