@@ -19,7 +19,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/CSE-Student-7C3AED?style=for-the-badge&labelColor=111827" alt="CSE Student"/>
-<img src="https://img.shields.io/badge/MAKAUT-2026--30-6366F1?style=for-the-badge&labelColor=111827" alt="MAKAUT"/>
+<img src="https://img.shields.io/badge/MAKAUT-2026--29-6366F1?style=for-the-badge&labelColor=111827" alt="MAKAUT"/>
 <img src="https://img.shields.io/badge/FIEM-Computer%20Science-8B5CF6?style=for-the-badge&labelColor=111827" alt="FIEM"/>
 <img src="https://img.shields.io/badge/📍-Kolkata%2C%20West%20Bengal-4F46E5?style=for-the-badge&labelColor=111827" alt="Location"/>
 
