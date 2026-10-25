@@ -112,7 +112,7 @@ public:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" alt="Programming Languages" />
 
 </p>
 
