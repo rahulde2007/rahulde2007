@@ -1,10 +1,8 @@
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile!&center=true&vCenter=true" alt="Welcome to my profile!" />
   </a>
 </div>
-
 
 <br/>
 
@@ -27,18 +25,16 @@
 
 <a href="https://codewith-rahul.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  <a href="mailto:rahulde937@gmail.com">
+</a>
+<a href="mailto:rahulde937@gmail.com">
   <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-  <a href="https://github.com/">
+<a href="https://github.com/">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 </a>
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-
 
 <br/><br/>
 
@@ -57,9 +53,8 @@
 </div>
 
 ---
-<!-- ABOUT ME: Independent Table -->
 
-<h2>👋 About Me</h2>
+## 👋 About Me
 
 ```cpp
 class Rahul De {
@@ -75,21 +70,18 @@ public:
         "System Design"
     };
 
-    string currentlyLearning = "C++ & Advanced DSA";
+    string CurrentlyLearning = "C++ & Advanced DSA";
 
     string goal = "Become an Army officer 🚀";
 };
 ```
 
 ---
----
-<!-- FUN FACT: Independent Table -->
 
-<h2>🎈 Fun Fact</h2>
+## 🎈 Fun Fact
 
 <div align="center">
 <img height="180" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="Octocat" />
-
 
 🔭 Currently working on **Agentic Graph RAG**<br/>
 🌱 Exploring **Deep Learning, AI and System Design**<br/>
@@ -100,7 +92,7 @@ public:
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -116,7 +108,7 @@ public:
 
 ---
 
-# <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Tech Stack
+## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"/> Tech Stack
 
 <p align="center">
 
@@ -126,29 +118,29 @@ public:
 
 ---
 
-# 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 <div align="center">
-<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=rahulde2007&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulde2007&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
----
 </div>
 
-# 🔥 GitHub Streak
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rahulde2007&theme=dark" alt="GitHub Streak" />
 </p>
 
-
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
+
 <a href="https://github.com/rahulde2007?tab=achievements">
   <img src="./assets/achievements/Quickdraw.png" width="80" alt="Achievement 1" />
 </a>
@@ -161,10 +153,11 @@ public:
   <img src="./assets/achievements/Pull%20Shark.png" width="80" alt="Achievement 3" />
 </a>
 
----
 </div>
 
-# 🐍 Contribution Graph
+---
+
+## 🐍 Contribution Graph
 
 <p align="center">
 
@@ -174,7 +167,7 @@ public:
 
 ---
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">  Coding Profiles
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"/> Coding Profiles
 
 <p align="center">
 
@@ -197,5 +190,5 @@ public:
 </h3>
 
 <p align="center">
-  <b> Thanks for visiting my profile! 🚀</b>
-  </p>
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
